@@ -1,0 +1,120 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+}
+
+
+
+h1{
+	
+
+	margin-top: 0;
+font-size: 562.5%;
+
+
+}
+h2{
+	font-family: monospace;
+	font-size: 2.5rem;
+ color: #B8E8FC;
+}
+p{
+	font-family: 'Inter', sans-serif;
+	line-height: 2;
+}
+.top_container{
+
+	
+	
+	background-color:#B8E8FC;
+	position: relative;
+	padding-top: 100px;
+
+}
+
+
+
+
+
+
+span{
+	text-decoration: underline;
+}
+.bottom_cloud{
+	position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.top_cloud{
+position: absolute;
+top: 50px;
+right: 300px;
+
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+
+}
+.chill{
+	width: 50%;
+	float: left;
+	padding-right: 20px;
+	margin-right: 10px;
+}
+.anti_float{
+	clear: left;
+}
+.web{
+	color: #B8E8FC;
+}
+hr{
+	size: 3px;
+	border: dotted black 6px;
+	border-bottom: none;
+	width: 4%;
+
+	margin:100 ;
+}
+.middle-container{
+
+	margin: 100px auto ;
+}
+.intro{
+	width: 30%;
+	margin: auto;
+}
+.contact{
+width: 40%;
+margin: 50px auto 50px;
+
+}
+
+.buttn {
+	
+		background-color: #B8E8FC; 
+		border: none;
+		color: black;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+	  
+}
+.bottom-container{
+	background-color: #B8E8FC ;
+	padding: 50px 0 20px;
+}
+a{
+color: black;
+margin: 10px 20px;
+text-decoration: none
+
+}
+a:hover{
+	color: brown;
+}
